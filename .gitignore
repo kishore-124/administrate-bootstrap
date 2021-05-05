@@ -5,3 +5,7 @@
 /spec/example_app/tmp
 /spec/example_app/log/*
 /tmp/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
